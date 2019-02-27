@@ -9,3 +9,51 @@
 	light orange color: #ec9371
 
 ******/
+
+.container {
+	width: 500px;
+	position: absolute;
+	left: 30%;
+}
+
+.bar {
+	background-color: #DB4006;
+	border-top-right-radius: 5%;
+	border-top-left-radius: 5%;
+	padding: 0px;
+	height: 40px;
+	line-height: 10px;
+	border-top: 1px solid grey;
+	border-left: 1px solid grey;
+	border-right: 1px solid grey;
+
+
+}
+
+h1.title {
+	display: inline-block;
+	font-size: 24px;
+	color: white;
+	margin-left: 15px;
+	padding: 0px;
+
+}
+
+span.close {
+	display: inline-block;
+	font-size: 24px;
+	margin-left: 370px;
+
+}
+
+.item {
+	background-color: #ec9371;
+	border-radius: 5%;
+	padding: 0px;
+	box-shadow: 2px 2px grey;
+	border-left: 1px solid grey;
+}
+
+p {
+	padding: 0px 5px 10px 40px;
+}
